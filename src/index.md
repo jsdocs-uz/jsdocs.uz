@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://avatars.githubusercontent.com/u/87620528?s=200&v=4
+heroImage: https://raw.githubusercontent.com/jsdocs-uz/jsdocs.uz/main/src/assets/Logo-main.svg
 tagline: O'zbek tilidagi ilk JavaScript yo'riqnoma
 actionText: Boshlash →
 actionLink: /docs/
