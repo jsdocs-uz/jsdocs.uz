@@ -10,7 +10,7 @@ Ammo bu rasmiylashtirilganligi sababli, avvaliga tushunish qiyin. Shunday qilib,
 
 Har yili yangi spetsifikatsiya versiyasi chiqariladi. Ushbu nashrlar orasida so'nggi spetsifikatsiya qoralamasi [https://tc39.es/ecma262/](https://tc39.es/ecma262/) .
 
-Qon ketishining yangi xususiyatlari, shu jumladan "deyarli standart" ("3 bosqich" deb nomlangan) xususiyatlari haqida o'qish uchun [https://github.com/tc39/proposals saytidagi](https://github.com/tc39/proposals) takliflarga qarang .
+Yangi xususiyatlar, shu jumladan "deyarli standart" ("3 bosqich" deb nomlangan) haqida o'qish uchun https://github.com/tc39/proposals saytidagi takliflarga qarang.
 
 Agar siz brauzer uchun ishlab chiqayotgan bo'lsangiz, unda o'quv qo'llanmaning [ikkinchi qismida](https://javascript.info/browser-environment) keltirilgan boshqa texnik xususiyatlar mavjud .
 
