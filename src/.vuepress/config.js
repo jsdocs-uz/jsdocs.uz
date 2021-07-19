@@ -43,6 +43,10 @@ module.exports = {
                 text: "Telegram",
                 link: "https://t.me/jsdocs_uz",
             },
+            {
+                text: "Hissa qo'shing",
+                link: "https://github.com/jsdocs-uz/jsdocs.uz",
+            },
         ],
         sidebar: {
             "/docs/": [{
