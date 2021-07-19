@@ -38,6 +38,9 @@ module.exports = {
         nav: [{
                 text: "Docs",
                 link: "/docs/",
+            }, {
+                text: "Loyiha haqida",
+                link: "/about/",
             },
             {
                 text: "Telegram",
@@ -54,10 +57,10 @@ module.exports = {
                 collapsable: false,
                 children: ["", "manuals", "browser", "hello-world"],
             }, ],
-            "/guide/": [{
-                title: "Guide",
+            "/about/": [{
+                title: "Loyiha haqida",
                 collapsable: false,
-                children: ["", "using-vue"],
+                children: ["", "contribute"],
             }, ],
         },
     },
