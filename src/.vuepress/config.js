@@ -60,7 +60,7 @@ module.exports = {
             "/about/": [{
                 title: "Loyiha haqida",
                 collapsable: false,
-                children: ["", "contribute"],
+                children: ["", "contribute", "pull"],
             }, ],
         },
     },
