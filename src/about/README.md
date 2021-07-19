@@ -8,7 +8,7 @@ Ushbu o'quv qo'llanmaning mazmuni [ochiq manba bo'lib](https://github.com/javasc
 
 ## Xato yoki xato xatomi? Zo'r fikr?
 
-Iltimos , bizning github- [da muammo yarating](https://github.com/jsdocs-uz/jsdocs-uz/issues/new) .
+Iltimos , bizning github- [da muammo yarating](https://github.com/jsdocs-uz/jsdocs.uz/issues/new) .
 
 Ushbu ochiq manbali loyihani butun dunyo bo'ylab odamlar uchun taqdim etmoqchimiz.
 
