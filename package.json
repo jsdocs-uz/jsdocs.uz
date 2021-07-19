@@ -1,0 +1,19 @@
+{
+    "name": "jsDocs.uz",
+    "version": "0.0.1",
+    "description": "O'zbek tilidagi birinchi JavaScript hujjatli qo'llanma.",
+    "main": "index.js",
+    "authors": {
+        "name": "Mukhammadyusuf Abdurakhimov",
+        "email": "icoderx@yandex.com"
+    },
+    "repository": "https://github.com/jsdocs-uz/jsdocs.uz.git/jsDocs.uz",
+    "scripts": {
+        "dev": "vuepress dev src",
+        "build": "vuepress build src"
+    },
+    "license": "MIT",
+    "devDependencies": {
+        "vuepress": "^1.5.3"
+    }
+}
