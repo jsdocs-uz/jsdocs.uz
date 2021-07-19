@@ -11,5 +11,5 @@ features:
     details: Sahifaga kirganingizda biz faqat bir marta sahifalarni yuklaymiz. Keyin siz sahifani qayta yuklamasdan istalgan sahifaga kirishingiz mumkin!
   - title: Open Source (Bepul)
     details: O'zbekistonlik JavaScript dasturchilar qatoriga qoshiling va opensource loyihamizga o'z hissmizni qo'shing!
-footer: Made by [MrAbdurakhimov](https://githuhb.com/mrabdurakhimov) with ❤️
+footer: Made by jsDocs.uz with ❤️
 ---
