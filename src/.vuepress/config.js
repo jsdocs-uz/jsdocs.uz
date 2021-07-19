@@ -5,7 +5,7 @@ module.exports = {
     /**
      * Ref：https://v1.vuepress.vuejs.org/config/#title
      */
-    title: "jsDocs.uz",
+    title: "jsDocs.uz - α",
     /**
      * Ref：https://v1.vuepress.vuejs.org/config/#description
      */

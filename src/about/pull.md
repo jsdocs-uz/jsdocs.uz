@@ -1,7 +1,7 @@
-# PULL REQUEST
-## Qanday qilib PULL Request submit qilish mumkin?
+# Pull Request
+## Qanday qilib Pull Request qoldirish mumkin?
 
-### PULL Request nima?
+### Pull Request nima?
 Pull request bu siz hissa qo'shayotgan repozitoriyaga o'zgartirish uchun sorov jo'natish uslubidir.
 
 Keling Pull Requestni qisqartiri PR deb ataymiz
@@ -10,7 +10,11 @@ Keling Pull Requestni qisqartiri PR deb ataymiz
 
 Avvaliga siz hissa qo'shmochi bo'lgan repozitoriyani `fork` qiling.
 
-Keyin esa uni o'z kompyuteringizga `git clone https://github.com/<SiningGitHubUsername>/<projectname>` orqali repozitoriyani clone qilib oling.
+Keyin esa uni o'z kompyuteringizga
+```
+git clone https://github.com/<SiningGitHubUsername>/<projectname>
+``` 
+orqali repozitoriyani clone qilib oling.
 Bu amal loyihani kompyuteringizga yuklab olishga yordam beradi.
 
 Endi quyidagi amal orqali loyiha direktoriyasiga kirib oling
