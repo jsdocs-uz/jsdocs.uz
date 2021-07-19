@@ -55,7 +55,7 @@ module.exports = {
             "/docs/": [{
                 title: "Mundarija",
                 collapsable: false,
-                children: ["", "manuals", "browser", "hello-world"],
+                children: ["", "manuals", "browser", "hello-world", "code-structure", "use-strict"],
             }, ],
             "/about/": [{
                 title: "Loyiha haqida",
