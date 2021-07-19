@@ -1,3 +1,4 @@
+require("dotenv").config;
 const { description } = require("../../package");
 
 module.exports = {
@@ -38,7 +39,8 @@ module.exports = {
         nav: [{
                 text: "Docs",
                 link: "/docs/",
-            }, {
+            },
+            {
                 text: "Loyiha haqida",
                 link: "/about/",
             },
@@ -55,7 +57,14 @@ module.exports = {
             "/docs/": [{
                 title: "Mundarija",
                 collapsable: false,
-                children: ["", "manuals", "browser", "hello-world", "code-structure", "use-strict"],
+                children: [
+                    "",
+                    "manuals",
+                    "browser",
+                    "hello-world",
+                    "code-structure",
+                    "use-strict",
+                ],
             }, ],
             "/about/": [{
                 title: "Loyiha haqida",
@@ -68,5 +77,13 @@ module.exports = {
     /**
      * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
      */
-    plugins: ["@vuepress/plugin-back-to-top", "@vuepress/plugin-medium-zoom"],
+    plugins: [
+        "@vuepress/plugin-back-to-top",
+        "@vuepress/plugin-medium-zoom", [
+            "@vuepress/google-analytics",
+            {
+                ga: process.env.ANALYTICS, // UA-00000000-0
+            },
+        ],
+    ],
 };
