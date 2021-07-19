@@ -6,7 +6,7 @@ Bizning stsenariylarimizni ishga tushirish uchun bizda ishlash muhiti kerak va b
 
 Keling, avval veb-sahifaga skriptni qanday biriktirishimizni ko'rib chiqamiz. Server tomonlari (masalan, Node.js) uchun siz buyruq buyrug'i bilan buyruqni bajarishingiz mumkin `"node my.js"`.
 
-## "Skript" yorlig'i
+## "Script" tegi
 
 JavaScript dasturlarini `<script>`yorliq yordamida deyarli hamma joyda HTML hujjatga kiritish mumkin .
 
