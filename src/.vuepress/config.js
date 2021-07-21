@@ -64,6 +64,7 @@ module.exports = {
                     "hello-world",
                     "code-structure",
                     "use-strict",
+                    "variables",
                 ],
             }, ],
             "/about/": [{
