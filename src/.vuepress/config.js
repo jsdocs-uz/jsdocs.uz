@@ -72,6 +72,11 @@ module.exports = {
                     "variables",
                 ],
             }, ],
+            "/reactjs/": [{
+                title: "Loyiha haqida",
+                collapsable: false,
+                children: ["index"],
+            }, ],
             "/about/": [{
                 title: "Loyiha haqida",
                 collapsable: false,
