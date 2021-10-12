@@ -10,7 +10,8 @@ React упрощает разработку веб-приложений.
 Давайте напишем наше первое приложение на React:
 
 **index.html**
-``html
+
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -27,11 +28,11 @@ React упрощает разработку веб-приложений.
   <script src="./script.js" ></script>
 </body>
 </html>
-``
+```
 
 **style.css**
 
-``css
+```css
 body {
   background: lavender; 
   height: 100vh;
@@ -58,11 +59,11 @@ button {
 #button {
   margin: auto;
 }
-``
+```
 
 **script.js**
 
-``js
+```javascript
 // React создает кнопку и сохраняет ее у себя
 const Button = React.createElement("button", { 
   onClick: () => alert("Hello world")
@@ -70,4 +71,4 @@ const Button = React.createElement("button", {
 
 // React с помощью метода render, вставляет созданную кнопку в DOM
 ReactDOM.render(Button, document.getElementById("root"));
-``
+```
