@@ -36,10 +36,15 @@ module.exports = {
         docsDir: "",
         editLinkText: "",
         lastUpdated: false,
-        nav: [{
-                text: "Docs",
-                link: "/docs/",
-            },
+        nav: [
+            {
+        text: 'Docs',
+        ariaLabel: 'Docs Menu',
+        items: [
+          { text: 'Core JavaScript', link: '/docs/' },
+          { text: 'React JS', link: '/reactjs/' }
+        ]
+      },
             {
                 text: "Loyiha haqida",
                 link: "/about/",
