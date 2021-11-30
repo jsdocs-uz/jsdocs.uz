@@ -1,7 +1,7 @@
 # Теория
 
 > Предполагается, что вы уже знакомы с JavaScript, включая спецификацию ES6 и работали с DOM.
-> С официальной документацией React можно ознакомиться тут.
+> С официальной документацией React можно ознакомиться [тут](https://reactjs.org).
 
 React упрощает разработку веб-приложений.
 В этом курсе мы постараемся объяснить на пальцах как писать приложения на React.
@@ -9,6 +9,12 @@ React упрощает разработку веб-приложений.
 ## Приложение на React
 
 Давайте напишем наше первое приложение на React:
+
+<iframe height="300" style="width: 100%;" scrolling="no" title="Untitled" src="https://codepen.io/ilezus/embed/oNbVEVE?default-tab=html%2Cresult&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/ilezus/pen/oNbVEVE">
+  Untitled</a> by ilezus (<a href="https://codepen.io/ilezus">@ilezus</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
 
 ### index.html
 
