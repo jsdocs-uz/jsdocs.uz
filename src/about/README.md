@@ -15,9 +15,10 @@ Ushbu ochiq manbali loyihani butun dunyo bo'ylab odamlar uchun taqdim etmoqchimi
 Ushbu o'quv qo'llanmaning mazmunini o'zbek tiliga [tarjima](https://github.com/jsdocs-uz/jsdocs.uz/) qilishga [yordam](https://github.com/jsdocs-uz/jsdocs.uz/) bering!
 
 ## Jamoa
-- Mukhammadyusuf Abdurakhimov
-- Sohibqiron Orzikulov
-- [Sizning ismingiz](https://github.com/jsdocs-uz)
+- Mukhammadyusuf Abdurakhimov - [GitHub](https://github.com/MrAbdurakhimov)
+- Sohibqiron Orzikulov - [Github](https://github.com/uwussimo)
+- Malika Bakhtiyorova - [Github](https://github.com/malikabakhtiyorova)
+- [Sizning ismingiz](https://github.com/orgs/jsdocs-uz/people)
 
 ## Kontaktlar
 - Email: [icoderx@yandex.com](mailto:icoderx@yandex.com)
